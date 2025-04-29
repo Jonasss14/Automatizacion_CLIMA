@@ -1,0 +1,12 @@
+Ciudad,Fecha y Hora,Temperatura,Sensación Térmica,Humedad,Presión,Clima,Descripción
+Buenos Aires,2025-04-29 13:30:32,20.09,19.38,47,1017,Despejado,Cielo despejado
+Córdoba,2025-04-29 13:33:52,26.32,26.32,40,1013,Despejado,Cielo despejado
+Santa Fe,2025-04-29 13:30:13,25.27,24.92,41,1015,Nublado,Nubes rotas
+Mendoza,2025-04-29 13:23:56,19.74,18.81,40,1011,Despejado,Cielo despejado
+Salta,2025-04-29 13:32:14,16.99,16.86,81,1014,Nublado,Nubes rotas
+Entre Rios,2025-04-29 13:34:02,35.6,37.12,36,1007,Nublado,Nubes dispersas
+San Luis,2025-04-29 13:31:59,25.01,24.25,26,1011,Despejado,Cielo despejado
+San Juan,2025-04-29 13:30:52,24.67,23.98,30,1009,Nublado,Pocas nubes
+Neuquén,2025-04-29 13:33:03,17.94,17.04,48,1011,Despejado,Cielo despejado
+La Rioja,2025-04-29 13:34:05,16.88,15.96,51,1014,Nublado,Nubes rotas
+Misiones,2025-04-29 13:34:05,22.48,21.78,38,1012,Nublado,Nubes dispersas

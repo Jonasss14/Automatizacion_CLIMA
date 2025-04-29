@@ -1,0 +1,37 @@
+{
+"API_KEY" : "7c503e5a0fb49718fbf6591b5536713d",
+"Traducciones" : {
+    "Clear": "Despejado",
+    "Clouds": "Nublado",
+    "Rain": "Lluvia",
+    "Drizzle": "Llovizna",
+    "Thunderstorm": "Tormenta",
+    "Snow": "Nieve",
+    "Mist": "Neblina",
+    "Haze": "Bruma",
+    "Smoke": "Humo",
+    "Fog": "Niebla",
+    "Dust": "Polvo",
+    "Sand": "Arena",
+    "Ash": "Ceniza",
+    "Squall": "Chubasco",
+    "Tornado": "Tornado" 
+},
+"Descripciones" : {
+    "clear sky": "cielo despejado",
+    "few clouds": "pocas nubes",
+    "scattered clouds": "nubes dispersas",
+    "broken clouds": "nubes rotas",
+    "overcast clouds": "nublado",
+    "light rain": "lluvia ligera",
+    "moderate rain": "lluvia moderada",
+    "heavy intensity rain": "lluvia intensa",
+    "very heavy rain": "lluvia muy intensa",
+    "extreme rain": "lluvia extrema",
+    "thunderstorm": "tormenta eléctrica",
+    "snow": "nieve",
+    "mist": "neblina",
+    "haze": "bruma",
+    "fog": "niebla"
+}
+}
