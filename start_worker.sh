@@ -1,1 +1,0 @@
-prefect worker start --pool "default" --type process
