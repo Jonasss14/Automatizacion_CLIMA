@@ -24,4 +24,5 @@ jobs:
 
       - name: Ejecutar flujo
         run: |
-          python Automatizacion_CLIMA/clima.py
+          python clima.py
+ 
