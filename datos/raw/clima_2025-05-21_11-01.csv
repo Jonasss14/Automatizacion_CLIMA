@@ -1,0 +1,12 @@
+Ciudad,Fecha y Hora,Temperatura,Sensación Térmica,Humedad,Presión,Clima,Descripción
+Buenos Aires,2025-05-21 10:53:32,12.65,11.51,59,1024,Despejado,Cielo despejado
+Córdoba,2025-05-21 10:59:59,12.91,12.61,90,1021,Neblina,Neblina
+Santa Fe,2025-05-21 10:54:26,14.12,13.39,69,1022,Nublado,Nublado
+Mendoza,2025-05-21 10:57:16,16.94,15.76,41,1018,Despejado,Cielo despejado
+Salta,2025-05-21 10:52:22,16.99,16.89,82,1019,Nublado,Nubes rotas
+Entre Rios,2025-05-21 11:01:30,26.45,26.45,70,1017,Lluvia,Lluvia ligera
+San Luis,2025-05-21 10:57:03,15.86,14.57,41,1018,Nublado,Nubes rotas
+San Juan,2025-05-21 11:01:32,14.6,12.87,29,1018,Nublado,Nublado
+Neuquén,2025-05-21 10:57:42,7.94,6.33,61,1019,Nublado,Pocas nubes
+La Rioja,2025-05-21 11:00:34,19.88,19.36,55,1018,Nublado,Nublado
+Misiones,2025-05-21 11:00:56,5.39,4.34,87,1023,Despejado,Cielo despejado
